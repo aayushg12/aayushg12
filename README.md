@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aayush.gupta05)
+
 <!--
 **aayushg12/aayushg12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
